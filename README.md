@@ -1,10 +1,12 @@
-# C-
+# About Me #
 
 I am new to C++. I know a small percentage of html, php, python and now I am going to fully commit to learning C++.
 I work as a Network Architect and Installer. Network+, A+, CCNA, and currently taking Cyber Security. Ive been working
 with Networks since highschool and I'm always looking to learn more. Recently learned Binary ASCII and Hexadecimal. I found
 Github because I actually use Linux on my laptop. Currently running Parrot OS https://parrotsec.org/. I use Nmap, 
 Metasploit, Wireshark, And many other tools that are provided. I am intrested in joining the Github community.
+
+# About My Goals #
 
 I am using this repository to hold what I am learning starting from the beginning. I am just using what I can find online
 and what I do is I read first then I apply what I read test and keep going. I found that the way i learn I have to step by
