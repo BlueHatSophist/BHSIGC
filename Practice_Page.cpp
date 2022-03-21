@@ -102,6 +102,7 @@ int main() {
   else if (number == 15) {
     cout << "1111 =Hex(f)=" << number << endl;
   }
+  cout << "\n";
   /* this is the hex representation just in case you enter a hex letter to represent a number it would be correct as well like 10=a or a=10
   else if (char == a) {
     cout << "1010 =Hex(a)=" << number << endl;
@@ -122,6 +123,9 @@ int main() {
     cout << "1111 =Hex(f)=" << number << endl;
   }
 */
-
+//looping starting with (for) 
+  for (int i = 0; i<=number; ++i)
+  cout << i << " ";
+  cout << "\n this shows the 0-input value" << endl;
         return 0;
 }
