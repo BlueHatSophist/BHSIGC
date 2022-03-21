@@ -54,12 +54,74 @@ int main() {
   cout << "//binary converstion enter any number between 0-15" << endl;
   int number;
   cin >> number;
-  if (number = 1) {
+  if (number == 0) {
+    cout << "0000 =" << number << endl;
+  }
+  else if (number == 1) {
     cout << "0001 =" << number << endl;
   }
-  else if (number = 2) {
+  else if (number == 2) {
     cout << "0010 =" << number << endl;
   }
+  else if (number == 3) {
+    cout << "0011 =" << number << endl;
+  }
+  else if (number == 4) {
+    cout << "0100 =" << number << endl;
+  }
+  else if (number == 5) {
+    cout << "0101 =" << number << endl;
+  }
+  else if (number == 6) {
+    cout << "0110 =" << number << endl;
+  }
+  else if (number == 7) {
+    cout << "0111 =" << number << endl;
+  }
+  else if (number == 8) {
+    cout << "1000 =" << number << endl;
+  }
+  else if (number == 9) {
+    cout << "1001 =" << number << endl;
+  }
+  else if (number == 10) {
+    cout << "1010 =Hex(a)=" << number << endl;
+  }
+  else if (number == 11) {
+    cout << "1011 =Hex(b)=" << number << endl;
+  }
+  else if (number == 12) {
+    cout << "1100 =Hex(c)=" << number << endl;
+  }
+  else if (number == 13) {
+    cout << "1101 =Hex(d)=" << number << endl;
+  }
+  else if (number == 14) {
+    cout << "1110 =Hex(e)=" << number << endl;
+  }
+  else if (number == 15) {
+    cout << "1111 =Hex(f)=" << number << endl;
+  }
+  /* this is the hex representation just in case you enter a hex letter to represent a number it would be correct as well like 10=a or a=10
+  else if (char == a) {
+    cout << "1010 =Hex(a)=" << number << endl;
+  }
+  else if (char == b) {
+    cout << "1011 =Hex(b)=" << number << endl;
+  }
+  else if (char == c) {
+    cout << "1100 =Hex(c)=" << number << endl;
+  }
+  else if (char == d) {
+    cout << "1101 =Hex(d)=" << number << endl;
+  }
+  else if (char == e) {
+    cout << "1110 =Hex(e)=" << number << endl;
+  }
+  else if (char == f) {
+    cout << "1111 =Hex(f)=" << number << endl;
+  }
+*/
 
         return 0;
 }
