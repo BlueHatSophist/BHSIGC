@@ -124,8 +124,9 @@ int main() {
   }
 */
 //looping starting with (for) 
-  for (int i = 0; i<=number; ++i)
+   for (int i = 0; i<=number; ++i)
   cout << i << " ";
-  cout << "\n this shows the 0-input value" << endl;
+  cout << "\n";
+  cout << "This shows the input value from 0-" << number << endl;
         return 0;
 }
