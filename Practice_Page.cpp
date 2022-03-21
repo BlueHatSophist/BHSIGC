@@ -57,15 +57,8 @@ int main() {
   if (number = 1) {
     cout << "0001 =" << number << endl;
   }
-  //something is wrong with this maybe havent gotten far enough in the lessons.
-  else { if (number = 2) {
+  else if (number = 2) {
     cout << "0010 =" << number << endl;
-  }} 
-  if (number = 3) {
-    cout << "0011 =" << number << endl;
-  }
-  if (number = 4) {
-    cout << "0100 =" << number << endl;
   }
 
         return 0;
